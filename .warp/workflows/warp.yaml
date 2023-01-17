@@ -1,0 +1,3 @@
+cd {{repository_path}}
+mkdir -p .warp/workflows/
+cp ~/path/to/my_awesome_workflow.yaml .warp/workflows
